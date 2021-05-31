@@ -16,6 +16,8 @@ https://tv.teleclub.xyz/canales/EVENTO_TELECLUBXYZ.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/b9qUv1a.png" group-title="Club", Teleclub | EVENTO 3
 https://tv.teleclub.xyz/canales/EVENTO_TVCLUB.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.elseptimoarte.net/carteles/341/ejercito_de_los_muertos_87954.jpg" group-title="Servidor 2", El Ejercito de los no muertos [Club2]
+https://serieskao.tv/pelicula/el-ejercito-de-los-muertos/
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wx6s0Wq.jpg" group-title="Servidor 2", Cartoon Network [Club2]
 https://tv.teleclub.xyz/canales/L2/CARTOON_NETWORK.m3u8
